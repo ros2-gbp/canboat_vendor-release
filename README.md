@@ -1,3 +1,26 @@
+## canboat_vendor (kilted) - 0.0.5-1
+
+The packages in the `canboat_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted canboat_vendor` on `Wed, 06 Aug 2025 13:12:54 -0000`
+
+The `canboat_vendor` package was released.
+
+Version of package(s) in repository `canboat_vendor`:
+
+- upstream repository: https://github.com/robotic-esp/canboat_vendor.git
+- release repository: https://github.com/ros2-gbp/canboat_vendor-release.git
+- rosdistro version: `0.0.4-1`
+- old version: `0.0.4-1`
+- new version: `0.0.5-1`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## canboat_vendor (kilted) - 0.0.4-1
 
 The packages in the `canboat_vendor` repository were released into the `kilted` distro by running `/usr/bin/bloom-release --rosdistro kilted --track kilted canboat_vendor` on `Thu, 24 Jul 2025 13:53:41 -0000`
